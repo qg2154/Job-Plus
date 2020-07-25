@@ -9,10 +9,10 @@ Login:
 
 
 Key Points: 
-Created three java servlets with Restful API to handle HTTP request and responses      
-Retrieved job information with Github API and used MonkeyLearn API for key word extraction from job descriptions
-Transformed and stored the job info (company name, position, location, etc) into MySQL database and deployed it to
-Amazon RDS for scalability and simplicity
-Researched multiple recommendation systems and designed a content-based algorithm for job recommendation based
+1. Created three java servlets with Restful API to handle HTTP request and responses      
+2. Retrieved job information with Github API and used MonkeyLearn API for key word extraction from job descriptions
+3. Transformed and stored the job info (company name, position, location, etc) into MySQL database and deployed it to
+4. Amazon RDS for scalability and simplicity
+5. Researched multiple recommendation systems and designed a content-based algorithm for job recommendation based
 on users’ search history and saved favorite jobs
-Deployed to Amazon EC2 for better performance
+6. Deployed to Amazon EC2 for better performance
